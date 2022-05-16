@@ -6,3 +6,5 @@ C0dificand0 en C++
 Funci0n 1
 Cuerp0 de la funci0n1
 Fin de la funci0n1
+
+C0dificaci0n funci0n para imprimir l0s resultad0s
