@@ -1,1 +1,8 @@
 0rdenar la 0rdenadera
+0rden 1 
+0rden 2
+
+C0dificand0 en C++
+Funci0n 1
+Cuerp0 de la funci0n1
+Fin de la funci0n1
